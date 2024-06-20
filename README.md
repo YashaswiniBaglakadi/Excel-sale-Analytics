@@ -1,28 +1,32 @@
 # Excel-sale-Analytics
-Sales Report:
+**Sales Report:**
 Hey there! Let's dive into the sales report, shall we?
-- Project Objective:
-   1. Our first goal is to create a customer performance report. You can check it out [here]https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Customers%20net%20sales%20performance.pdf
-   
-   2. The second objective is to conduct a comprehensive comparison between market performance and sales targets. You can find the details [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+- **Project Objective:**
+   1. Our first goal is to create a customer performance report.In this report we Focus on analyzing customer activities and outcomes to enhance engagement and sales strategies.
+       You can check it out [here]https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Customers%20net%20sales%20performance.pdf
+    2. The second objective is to conduct a comprehensive comparison between market performance and sales targets & Performs a thorough comparison to identify gaps and opportunities
+       You can find the details [here]https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Market%20perforamce%20vs%20target.pdf
+    3. Additionally, I have also performace reports on :(i) Divison,(ii)Top products(based on 2020 and 2021 year)(iii)Top and bottom 5 product based on QTY
+       (i)https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/divison%20level%20report.pdf
+       (ii) https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/top%2010%20products.pdf
+       (iii) https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/top%20and%20bootom%205.pdf
 
-- Purpose of Sales Analytics:
+**- Purpose of Sales Analytics:*****
+     Sales analytics is all about empowering businesses to monitor and evaluate their sales activities and performance. It helps businesses stay on top of their game!
 
-   Sales analytics is all about empowering businesses to monitor and evaluate their sales activities and performance. It helps businesses stay on top of their game!
-
-- Importance of Analyzing Sales Data:
+**- Importance of Analyzing Sales Data:**
 
    Analyzing sales data is crucial because it helps identify sales patterns and track key performance indicators (KPIs). This information is gold for businesses.
 
-- Role of Reports:
+**- Role of Reports:**
 
    Reports play a vital role in determining effective customer discounts, facilitating negotiations with consumers, and identifying potential business expansion opportunities in promising countries.
 
-Finance Report:
+**Finance Report:**
 
 Now, let's shift our focus to the finance report. Here's what we aim to achieve:
 
-- Project Objective:
+**- Project Objective:**
 
    1. We want to create Profit and Loss (P&L) reports based on the fiscal year and months. You can access them [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).
 
