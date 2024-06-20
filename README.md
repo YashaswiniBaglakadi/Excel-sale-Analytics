@@ -2,7 +2,7 @@
 Sales Report:
 Hey there! Let's dive into the sales report, shall we?
 - Project Objective:
-   1. Our first goal is to create a customer performance report. You can check it out [here]
+   1. Our first goal is to create a customer performance report. You can check it out [here]https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Customers%20net%20sales%20performance.pdf
    
    2. The second objective is to conduct a comprehensive comparison between market performance and sales targets. You can find the details [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
 
