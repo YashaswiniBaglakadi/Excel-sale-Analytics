@@ -3,9 +3,9 @@
 Hey there! Let's dive into the sales report, shall we?
 - **Project Objective:**
    1. Our first goal is to create a customer performance report.In this report we Focus on analyzing customer activities and outcomes to enhance engagement and sales strategies.
-       You can check it out [here]https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Customers%20net%20sales%20performance.pdf
+       You can check it out [here]_https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Customers%20net%20sales%20performance.pdf
     2. The second objective is to conduct a comprehensive comparison between market performance and sales targets & Performs a thorough comparison to identify gaps and opportunities
-       You can find the details [here]https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Market%20perforamce%20vs%20target.pdf
+       You can find the details [here]_https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Market%20perforamce%20vs%20target.pdf
     3. Additionally, I have also performace reports on :(i) Divison,(ii)Top products(based on 2020 and 2021 year)(iii)Top and bottom 5 product based on QTY
        (i)https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/divison%20level%20report.pdf
        (ii) https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/top%2010%20products.pdf
@@ -31,7 +31,7 @@ Now, let's shift our focus to the finance report. Here's what we aim to achieve:
    1. We want to create Profit and Loss (P&L) reports based on the fiscal year and months. You can access them [here]_(
 https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/P%26L%20fiscal%20year.pdf)(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/p%26l%20FY%20by%20monnth.pdf).
 
-   3. Additionally, we'll create Profit and Loss (P&L) reports categorized by markets and GM%(subzone). You can check them out [here](https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/p%26L%20FY%20%20market.pdf)(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/GM%25(subzone).pdf).
+   3. Additionally, we'll create Profit and Loss (P&L) reports categorized by markets and GM%(subzone). You can check them out [here]_(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/p%26L%20FY%20%20market.pdf)(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/GM%25(subzone).pdf).
 
 - Purpose of Sales Analytics:
 
