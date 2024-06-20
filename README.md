@@ -28,9 +28,10 @@ Now, let's shift our focus to the finance report. Here's what we aim to achieve:
 
 **- Project Objective:**
 
-   1. We want to create Profit and Loss (P&L) reports based on the fiscal year and months. You can access them [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).
+   1. We want to create Profit and Loss (P&L) reports based on the fiscal year and months. You can access them [here]_(
+https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/P%26L%20fiscal%20year.pdf)(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/p%26l%20FY%20by%20monnth.pdf).
 
-   2. Additionally, we'll create Profit and Loss (P&L) reports categorized by markets. You can check them out [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+   3. Additionally, we'll create Profit and Loss (P&L) reports categorized by markets and GM%(subzone). You can check them out [here](https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/p%26L%20FY%20%20market.pdf)(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/GM%25(subzone).pdf).
 
 - Purpose of Sales Analytics:
 
