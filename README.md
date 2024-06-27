@@ -1,7 +1,7 @@
 # Excel-sale-Analytics
 **Sales Report:**
 Hey there! Let's dive into the sales report, shall we?
-Sales and finance excel report :"C:\Users\narsi\Downloads\Sales\sales_report.xlsx"
+Sales and finance excel report link :"https://1drv.ms/x/s!AoEu7wQRCn-QgVteXQsIojEqMy4u"
 - **Project Objective:**
    1. Our first goal is to create a customer performance report.In this report we Focus on analyzing customer activities and outcomes to enhance engagement and sales strategies.
        You can check it out [here]_https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics/blob/main/Customers%20net%20sales%20performance.pdf
